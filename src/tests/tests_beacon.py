@@ -53,5 +53,3 @@ class BeaconTest(BiothingTestHelperMixin):
         ok_(not res3['exists'])
         ok_(not res4['exists'])
 
-    def test_dataset_responses(self):
-        pass
